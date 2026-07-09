@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
-*.xlsx
-!sample_output.xlsx
-.DS_Store
-.streamlit/secrets.toml
